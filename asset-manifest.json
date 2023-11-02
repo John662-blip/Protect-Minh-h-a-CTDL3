@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Protect-Minh-h-a-CTDL3/static/css/main.165d31c8.css",
+    "main.js": "/Protect-Minh-h-a-CTDL3/static/js/main.24a8339d.js",
+    "index.html": "/Protect-Minh-h-a-CTDL3/index.html",
+    "main.165d31c8.css.map": "/Protect-Minh-h-a-CTDL3/static/css/main.165d31c8.css.map",
+    "main.24a8339d.js.map": "/Protect-Minh-h-a-CTDL3/static/js/main.24a8339d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165d31c8.css",
+    "static/js/main.24a8339d.js"
+  ]
+}
