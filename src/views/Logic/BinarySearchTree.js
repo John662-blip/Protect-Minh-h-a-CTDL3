@@ -56,6 +56,7 @@ class BinarySearchTree {
         return treeObject;
     }
     search(value) {
+        value = parseFloat(value);
         return this.searchNode(this.root, value);
     }
 
