@@ -4,10 +4,10 @@ class BinarySearchTree {
         this.root = null;
     }
     insert(value) {
+        value = parseFloat(value);
         if (!this.root) {
             this.root = new TreeNode(value);
         } else {
-            value = parseFloat(value);
             this.insertNode(this.root, value);
         }
     }
